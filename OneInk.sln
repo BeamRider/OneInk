@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInkService", "OneInkService\OneInkService.csproj", "{F3E8B075-9BB5-4147-A6E5-B16C02E24C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibOneInk", "LibOneInk\LibOneInk.csproj", "{CFD7EE35-DD81-449B-A670-D5F0F8118CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E8B075-9BB5-4147-A6E5-B16C02E24C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E8B075-9BB5-4147-A6E5-B16C02E24C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E8B075-9BB5-4147-A6E5-B16C02E24C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E8B075-9BB5-4147-A6E5-B16C02E24C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD7EE35-DD81-449B-A670-D5F0F8118CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD7EE35-DD81-449B-A670-D5F0F8118CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD7EE35-DD81-449B-A670-D5F0F8118CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD7EE35-DD81-449B-A670-D5F0F8118CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4954A3-3762-45E5-8E9A-836F1714063E}
+	EndGlobalSection
+EndGlobal
